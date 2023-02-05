@@ -47,6 +47,7 @@ android/build/
 
 # Other ignored files
 #####################
+.gitignore
 .env
 .env.*.local
 .env.*.production
